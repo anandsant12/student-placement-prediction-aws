@@ -1,0 +1,14 @@
+# Secrets
+.env
+*.pem
+*.key
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Large installers / OS files
+*.exe
+.DS_Store
